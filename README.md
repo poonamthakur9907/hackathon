@@ -1,2 +1,2 @@
-# hackathon
-trial repo for hackathon
+# hellowhale
+Simple Docker Demo App
